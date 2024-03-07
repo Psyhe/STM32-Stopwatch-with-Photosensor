@@ -1,0 +1,8 @@
+# Ignore compiled and temporary files
+
+*.bin 
+*.elf 
+*.hex 
+*.d 
+*.o 
+*.bak
